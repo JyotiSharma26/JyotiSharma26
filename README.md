@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jyoti Sharma</h1>
+<h1 align="center">Hi 👋, </h1>
 <h3 align="left">
   👩🏻‍💻 sharing about my journey and learnings in tech.</h3>
 <h3 align="left"> 🌷 #learninginpublic in my digital garden 
