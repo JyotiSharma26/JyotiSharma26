@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, </h1>
 <h3 align="left">
-  👩🏻‍💻 sharing about my journey and learnings in tech.</h3>
+
+ Computer Science student at Amity University 🎓 interested in system design, clean architecture, and scalable software development . I enjoy building full-stack applications that balance performance, usability, and maintainability . I aim to write efficient code, design strong systems, and keep learning modern technologies—from frontend frameworks to backend infrastructure . I like solving problems , improving workflows , and turning complex challenges into simple, working solutions . Outside academics, I explore emerging tools  and stay updated on trends . Beyond the screen, I find inspiration in books 📚, art 🎨, and all creative things —keeping my curiosity alive and always pushing me to learn more.
+</h3>
 <h3 align="left"> 🌷 #learninginpublic in my digital garden 
 </h3>
 
