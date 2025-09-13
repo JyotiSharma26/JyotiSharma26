@@ -3,8 +3,7 @@
 
  Computer Science student at Amity University 🎓 interested in system design, clean architecture, and scalable software development . I enjoy building full-stack applications that balance performance, usability, and maintainability . I aim to write efficient code, design strong systems, and keep learning modern technologies—from frontend frameworks to backend infrastructure .
 </h2>
-<h3 align="left"> 🌷 #learninginpublic in my digital garden 
-</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotisharma26&label=Profile%20views&color=0e75b6&style=flat" alt="jyotisharma26" /> </p>
